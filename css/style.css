@@ -322,3 +322,8 @@ h6,
   font-size: 0.9rem;
 }
 
+.gradient-border {
+  background: var(--primary-gradient);
+  display: inline-block;
+}
+
